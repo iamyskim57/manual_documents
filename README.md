@@ -1,4 +1,7 @@
-Download woodmeister and related programs from 
+Woodmeister와 관련 프로그램을 아래의 Link에서 다운로드하여 설치할 수 있습니다.
+
+(Download and install woodmeister and related program from the following link.)
+
 https://drive.google.com/file/d/1R0GfgHpLIW0DKOVRX1qBFvkPv2-yCXlY/view?usp=sharing
 
 Woodmeister 사용설명서:
