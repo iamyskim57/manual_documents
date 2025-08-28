@@ -17,7 +17,7 @@ https://github.com/iamyskim57/manual_documents/blob/main/%EB%AA%A9%EA%B3%B5%EA%B
 
 Parametric Wall design 프로그램 사용설명서:
 
-다양한 Image 기법을 이용하여 Parametric Wall 을 설계하는 프로그램으로 3개의 프로그램들로 구성되어 있습니다.
+다양한 Image 기법을 이용하여 Parametric Wall 을 설계하는 3개의 프로그램들에 대한 사용설명서입니다.
 
 https://github.com/iamyskim57/manual_documents/blob/main/parametric_designer_20250703.pdf
 
